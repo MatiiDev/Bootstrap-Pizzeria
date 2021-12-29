@@ -1,0 +1,43 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap');
+/* BODY */
+body{  
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+/* MENU */
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+
+}
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+/* slider de img */
+
+.carousel-inner{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+/* media queries pantalla ancha */
+
+
+
+
+
+/* media queries pantalla pequeña */
+
+
+
+
+/* media queries pantalla muy pequeña */
